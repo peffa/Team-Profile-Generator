@@ -173,3 +173,19 @@ You are required to submit the following:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+## Picture Demonstration
+
+1 Shows user input choices.
+
+ ![](Assets/example1.png)
+
+
+2 Shows created html document in Visual Studio Code.
+
+![](Assets/example2.png)
+
+
+3 Shows created html in brower.
+
+![](Assets/pictures/example3.png)
