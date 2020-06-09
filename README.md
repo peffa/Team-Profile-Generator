@@ -178,14 +178,14 @@ You are required to submit the following:
 
 1 Shows user input choices.
 
- ![](Assets/example1.png)
+ ![](Assets/example1.PNG)
 
 
 2 Shows created html document in Visual Studio Code.
 
-![](Assets/example2.png)
+![](Assets/example2.PNG)
 
 
 3 Shows created html in brower.
 
-![](Assets/pictures/example3.png)
+![](Assets/example3.PNG)
