@@ -176,16 +176,16 @@ You are required to submit the following:
 
 ## Picture Demonstration
 
-1 Shows user input choices.
+1. Shows user input choices.
 
  ![](Assets/example1.PNG)
 
 
-2 Shows created html document in Visual Studio Code.
+2. Shows created html document in Visual Studio Code.
 
 ![](Assets/example2.PNG)
 
 
-3 Shows created html in brower.
+3. Shows created html in brower.
 
 ![](Assets/example3.PNG)
