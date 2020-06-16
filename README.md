@@ -176,7 +176,7 @@ You are required to submit the following:
 
 ## Picture Demonstration
 
-1. Shows user input choices.
+1. Shows user input.
 
  ![](Assets/example1.gif)
 
