@@ -178,7 +178,7 @@ You are required to submit the following:
 
 1. Shows user input choices.
 
- ![](Assets/example1.PNG)
+ ![](Assets/example1.gif)
 
 
 2. Shows created html document in Visual Studio Code.
