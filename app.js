@@ -85,7 +85,7 @@ async function nextMember() {
             case "Intern":
                 return displayQuestions(internQu);
             default:
-                console.log("Successfully created your team.");
+                console.log("Your Team has been Created!");
                 renderHTML();
         }
     }
